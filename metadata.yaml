@@ -1,10 +1,16 @@
 _repo: The-Rise-and-Fall-of-Anarchy-in-America-From-its-Incipient-Stage-to-the-First-Bomb-Thrown-in-__49842
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49842-h/images/cover.jpg
 creator:
   author:
     agent_name: McLean, George N.
     gutenberg_agent_id: '45570'
     url: http://www.gutenberg.org/2009/agents/45570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49842#The-Rise-and-Fall-of-Anarchy-in-America-From-its-Incipient-Stage-to-the-First-Bomb-Thrown-in-_
 gutenberg_issued: '2015-09-01'
 gutenberg_type: Text
 identifiers:
